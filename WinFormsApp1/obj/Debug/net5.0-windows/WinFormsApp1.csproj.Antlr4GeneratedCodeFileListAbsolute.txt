@@ -1,0 +1,6 @@
+E:\WinFormsApp1\obj\Debug\net5.0-windows\LabCalculatorLexer.cs
+E:\WinFormsApp1\obj\Debug\net5.0-windows\LabCalculatorParser.cs
+E:\WinFormsApp1\obj\Debug\net5.0-windows\LabCalculatorListener.cs
+E:\WinFormsApp1\obj\Debug\net5.0-windows\LabCalculatorBaseListener.cs
+E:\WinFormsApp1\obj\Debug\net5.0-windows\LabCalculatorVisitor.cs
+E:\WinFormsApp1\obj\Debug\net5.0-windows\LabCalculatorBaseVisitor.cs
